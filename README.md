@@ -30,7 +30,7 @@ In terms of data structure, as per assignment guidelines, sudoku_solver takes in
 
 
 
-References: 
+# References: 
 
 https://sudoku.com/how-to-play/sudoku-rules-for-complete-beginners/  
 
